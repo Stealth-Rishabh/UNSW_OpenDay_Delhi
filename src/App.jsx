@@ -56,7 +56,7 @@ export default function UNSWOpenDay() {
           <div className="p-4">
             {/* Header */}
             <div className="mb-4">
-              <p className="text-sm text-gray-600">Sunday, April 13</p>
+              <p className="text-sm text-gray-600">Tuesday, April 15</p>
               <h1 className="text-4xl font-bold text-purple-900">
                 UNSW India Open Day 2025 - Delhi
               </h1>
@@ -96,7 +96,6 @@ export default function UNSWOpenDay() {
                   <p className="text-sm font-medium">
                     Taj Mahal Hotel, Man Singh Road
                   </p>
-                  
                 </div>
               </div>
             </div>
