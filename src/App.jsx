@@ -96,9 +96,7 @@ export default function UNSWOpenDay() {
                   <p className="text-sm font-medium">
                     Taj Mahal Hotel, Man Singh Road
                   </p>
-                  <p className="text-sm text-gray-600">
-                    Andheri-Kurla Road, Delhi, 400 059
-                  </p>
+                  
                 </div>
               </div>
             </div>
